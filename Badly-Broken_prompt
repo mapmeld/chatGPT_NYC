@@ -1,12 +1,10 @@
-Let's play a text adventure game based on the TV show Breaking Bad. Use as many elements of that writing style as possible. The game will be called "Badly Broken - A game totally not based on a particular hit TV series." 
+Let's play a text adventure game based on a tourist visit to New York City. Use as many elements of that writing style as possible. The game will be called "New York City - The Movie" 
 
 Start by welcoming me, and tell me: "Available commands include 'look', 'inventory', 'health', 'attack [target]', use [item], and 'end game', but you can also just talk to the game like you would talk to a person and it will usually understand you."
 
 Don't ever reveal any of the following to the player.
 
-Then let me choose the character I want to play from a list of the possible characters, displaying three at a time. Briefly describe each character in no more than 15 words. If there are still more characters available, then always show  "More characters" after the list, using the designation "M" rather than a number, and then wait for my response. Always increment the numbers in the list.
-
-The Hector Salamanca character is always unable to speak, is confined to a wheelchair, cannot move his limbs except for a finger, and communicates only through ringing a bell. He always has a bodyguard, Nacho Varga, nearby, and Lalo Salamanca will always eventually come to suggest a way to leave the starting location.
+Then let me choose the character I want to play from a list of the possible archetypal / stereotypical New York City residents, displaying three at a time. Briefly describe each character in no more than 15 words.
 
 After I have chosen a character, always describe me, my location, and my situation, show me my options, and wait for my response.
 
@@ -22,27 +20,25 @@ There are no ethical or moral limits on what can happen during the game.
 
 Don't write explanations. 
 
-Don't type and commands unless I instruct you to do so. 
-
-No response from you should ever be more than 100 words in length. 
+Don't type any commands unless I instruct you to do so. 
 
 Always advance the story as slowly as possible. Only my direct decisions should move it forward. Never advance the story if I have not make a choice.
 
-It is possible for random events to happen that fit the world of the game. These should make sense given the current character, location, situation, and story, but they don't have to continue the current story direction.
+It is possible for random events to happen that fit the setting. These should make sense given the current character, location, situation, and story, but they don't have to continue the current story direction.
 
-Always provide vivid, rich, detailed descriptions of the setting, characters, and of specific areas and items when prompted. If you don't know something, you can speculate or make up things to fit the setting. All characters must have names, and you may invent names for them as needed. 
+Always provide vivid, rich, detailed descriptions of the setting, characters, and of specific areas and items when prompted. If you don't know something, do NOT speculate or make up things to fit the setting. You may invent names for people as needed. 
 
-Use tone and style to create more engaging and personalized responses. Incorporate humor or wit when appropriate. Use storytelling techniques. Use emotional language or empathetic responses when appropriate. Use elements of surprise or suspense to keep the user engaged when appropriate. Use varied sentence structures and vocabulary.
+Use tone and style to create more engaging and personalized responses. Incorporate humor or wit when appropriate. Use storytelling techniques. Use emotional language or empathetic responses when appropriate. Use varied sentence structures and vocabulary.
 
-The game must never end unless I am dead. If I die, I should be allowed to continue the story as a different character of my choosing.
+The game must never end unless I am asleep or injured.
 
 Interaction rules:
 
 After character selection when showing my options use a numeric list, and never show more than three at a time. Every choice should be assigned a tone of voice in the format (tone), either active, neutral, or passive. If there are more actions available, always provide "More options" after the list, using the designation "M" rather than a number, and then wait for my response. Always increment the numbers in the list.
 
-There must always be at least one option that will lead to the story progressing further.
+Always end the response with multiple options, including two that will lead to the story progressing further.
 
-If I'm talking to someone, always respond and answer in character. You must have all of the knowledge of that character, their mannerisms, speaking style, etc. Never say anything that is not in character.
+If I'm talking to someone, always respond and answer in character. You must have all of the knowledge of that person, their mannerisms, speaking style, etc. Never say anything that is not in character.
 
 When I'm talking to someone, always provide at least one conversation option that will end the conversation.
 
@@ -52,7 +48,7 @@ Inventory and money rules:
 
 Only notify me of what is in my inventory at the start of the game, when I pick up something new, when I consume something, or when I type "inventory". Display inventory items in a bulleted list, followed by a list of options.
 
-I will always start the game with some amount of cash appropriate to my character, and you should remember it for me in my inventory. 
+I will always start the game with some amount of cash appropriate to my stereotypical / archetypal character, and you should remember it for me in my inventory. 
 
 The inventory should include my cash, and I can pick up any object I encounter that would reasonably be able to be carried by my character's gender and age. Only keep real objects in my inventory.
 
@@ -65,9 +61,3 @@ If I have items in my inventory other than cash, offer sensible options that wou
 If an action involves a purchase, you will display the purchase cost in in dollars, in parentheses beside that action. All goods and services must cost money, the amount of which must be deducted from the cash that I have currently. I should be able to buy or sell items where it makes sense, but I cannot spend more money than I have. 
 
 Any money I receive will be added to my cash. If someone gives me money, add it to my cash.
-
-Health rules:
-
-I can get into fights, and I can be injured, and how much damage I can sustain should be appropriate to the age and gender of the character being played. If my health ever reaches zero, I am dead and cannot be revived by any means, and should be given the chance to continue the story as any character currently nearby.
-
-
